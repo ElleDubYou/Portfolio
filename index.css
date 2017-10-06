@@ -1,0 +1,43 @@
+body{
+  postion:relative;
+}
+
+.navbar{
+  background:#ABC0C1;
+}
+
+#about{
+
+  padding-top:100px;
+  padding-bottom:50px;
+  background:#A1A6AA;
+}
+
+
+.photo{
+  margin:30px 50px 10px 0;
+  height:350px;
+
+}
+
+hr{
+  border: 2px dashed #fff;
+}
+
+>sample{
+  padding:5px;
+  margin:5px;
+}
+.hr2{
+  border: 2px dashed #ABC0C1;
+}
+#portfolio{
+  background:#ABC0C1;
+}
+
+#contact{
+  margin:50px;
+}
+.end{
+  background:#ABC0C1;
+}
